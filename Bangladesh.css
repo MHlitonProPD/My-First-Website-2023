@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    align-items: center;
+   flex-direction: column;
+}
+
+.Artical-box {
+   width: 1000px;
+   height:3930px;
+   padding: 40px;
+   background: #FFFFFF;
+   box-shadow: 0px 0px 40px rgba(47, 46, 46, 0.15);
+   
+
+}
+
+.Artical-box img {
+   
+   width: 1000px;
+   height: 600px;
+  
+}
+.C-Bangladesh{
+   height: 818px;
+   width: 100%;
+
+}
+.Cover{
+   width: 1510px;
+
+}
